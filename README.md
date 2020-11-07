@@ -1,24 +1,16 @@
-# search-client
+# Web Search
+Interfaz visual para el API-Search que permite al usuario realizar una búsqueda basado en un criterio que despliegue todas las coincidencias de los servicios encapsulados en el API.
 
-## Project setup
+## Instalación
+Clonar el repositorio del API para poder utilizarlo localmente
+```bash
+https://github.com/natalypazm/Web-search.git
 ```
+Una vez clonado, abrir la consola y ejecutar el comando
+```bash
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
+Finalmente, ejecutar el último comando para empezar el servicio
+```bash
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
